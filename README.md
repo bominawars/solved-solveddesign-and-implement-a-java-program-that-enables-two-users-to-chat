@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solveddesign-and-implement-a-java-program-that-enables-two-users-to-chat
+<br>
+Design and implement a Java program that enables two users to chat. Using GUIs implement one user as the server and the other as the client. The sever has two text areas:one for entering text and the other (noneditable) for displaying text received from the client.The client has two text areas: one for receiving text from the server and the other for entering text.When the user presses the enter key, the current line is sent to the server or client.Use comment to explain
